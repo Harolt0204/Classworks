@@ -52,7 +52,6 @@ int main (){
     }
     std::vector<std::string> purchases;
 
-    // Adding items to cart
     purchases.push_back("shirt");
     purchases.push_back("Laptop");
     purchases.push_back("Tv");
